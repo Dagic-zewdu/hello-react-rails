@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class MessagesController < ApplicationController
   def index
     id = rand(1..Message.count)

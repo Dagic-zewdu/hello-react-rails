@@ -2,7 +2,7 @@
 
 # Hello Rails Backend
 
-> This project is an introduction for Ruby on Rails working with React independently (in separate repositories). Click [here](https://github.com/Dagic-zewdu/hello-react-rails) to go to the frontend repo.
+> This project is an introduction for Ruby on Rails working with React independently (in separate repositories). Click [here](https://github.com/Dagic-zewdu/Hello-react-rails-frontend) to go to the frontend repo.
 
 ## Built With
 
